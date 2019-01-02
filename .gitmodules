@@ -1,0 +1,3 @@
+[submodule "ECMC_config"]
+	path = ECMC_config
+	url = https://github.com/icshwi/ECMC_config.git
